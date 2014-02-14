@@ -791,6 +791,7 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
         margin-bottom:10px;
         font-family: 'open sans';
         font-size:14px;
+        border:1px solid black;
     }
 
     .main section.page8 textarea {
@@ -799,6 +800,7 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
         margin-bottom:10px;
         font-family: 'open sans';
         font-size:14px;
+        border:1px solid black;
     }
 
     .main section.page8 button {
