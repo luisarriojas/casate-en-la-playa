@@ -374,21 +374,6 @@ body.disabled-onepage-scroll .main section.page3 .page_container {
 body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
     position: inherit;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width: 1050px) {
     #wallpaper {
         position: fixed;
